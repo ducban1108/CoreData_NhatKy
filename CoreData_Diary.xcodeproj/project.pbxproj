@@ -13,6 +13,7 @@
 		9319C520225C3104006F0BE3 /* CoreData_Diary.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9319C51E225C3104006F0BE3 /* CoreData_Diary.xcdatamodeld */; };
 		9319C522225C3105006F0BE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9319C521225C3105006F0BE3 /* Assets.xcassets */; };
 		9319C525225C3105006F0BE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9319C523225C3105006F0BE3 /* LaunchScreen.storyboard */; };
+		9319C52D225C353F006F0BE3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9319C52C225C353F006F0BE3 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9319C521225C3105006F0BE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9319C524225C3105006F0BE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9319C526225C3105006F0BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9319C52C225C353F006F0BE3 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9319C517225C3104006F0BE3 /* AppDelegate.swift */,
 				9319C519225C3104006F0BE3 /* ViewController.swift */,
+				9319C52C225C353F006F0BE3 /* TableViewController.swift */,
 				9319C51B225C3104006F0BE3 /* Main.storyboard */,
 				9319C521225C3105006F0BE3 /* Assets.xcassets */,
 				9319C523225C3105006F0BE3 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				9319C51A225C3104006F0BE3 /* ViewController.swift in Sources */,
 				9319C518225C3104006F0BE3 /* AppDelegate.swift in Sources */,
 				9319C520225C3104006F0BE3 /* CoreData_Diary.xcdatamodeld in Sources */,
+				9319C52D225C353F006F0BE3 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
